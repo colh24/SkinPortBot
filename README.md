@@ -4,7 +4,7 @@ Note that the website will eventually detect the amount of requests from you're 
 and temporarily shadow ban you. This is against Skin port TOS and this is not finantial advice
 so use with caution.
 
-Installation
+# Installation
 Install stable Python version on your computer: python.org/dowloads/
 Install the program dependencies:
 - Open the CMD, go to the program folder by using the command: cd [folder_path]
