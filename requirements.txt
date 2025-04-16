@@ -1,0 +1,7 @@
+selenium
+undetected-chromedriver
+numpy
+fake-useragent
+pyperclip
+selenium-stealth
+pyppeteer
